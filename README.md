@@ -19,15 +19,28 @@ You can even use that old webcam of yours for a security camera :)</p>
 <p>This project was made on <b>Python</b>, mostly. <br>There are many python modules for many things, such as cameras, sensor detection, users logging.</p>
 <p>You can arm and disarm the system by directly interacting with it (TFT screen or 3x4 keypad) or via WebGUI.</p>
 <p>Yes, this project counts with a Web GUI controller that allows you to manage remotely the system directly from your phone. Everything is done on the Web, since state changes, user management, other settings, consulting cameras, etc.</p>
-<p>But the keypad is there for a faster interaction in those cases where you need it, so you still have a way of disarming it even if your phone dies ;)</p>
+<p>But the keypad is there for a faster interaction when you need it, so you still have a way of disarming it even if your phone dies ;)</p>
 
-<h4>Functions</h4>
+<h4>Features</h4>
 <ul>
-  
+  <li>User authentication</li>
+  <li>Detailed logs (MySQL)</li>
+  <li>Web GUI management</li>
+  <li>Ease of interaction</li>
+  <li>Customization</li>
 </ul>
 
-
-
+<h4>Languages used</h4>
+<p><b>Python</b>, like said early, was the main language used for the program.<br>It was used to process most of the information and to directly interact with the hardware</p>
+<p>For the <b>Web GUI</b>,<br>besides <b>HTML, CSS and JS</b>, lots of <b>PHP</b> was also used.<br>
+  <ul>
+  <li>HTML and CSS, as you guessed, to properly display the page.</li>
+  <li>JS was used for diverse tasks, such as background checks and displaying animations.</li>
+  <li>PHP was the most used. Besides serving as a safe authentication and providing a safe way to submit data to the server, 
+  it also changes the WebGUI to reflect more sensitive data without exposing anything.<br>
+  Its use was <b>crucial</b> in making the Web GUI well-protected. It was the most used one out of all 4.</li>
+  </ul>
+  
 <h4>Downloads</h4>
 <p>If you don't want to download it from GitHub, you can download it from here too.<br>
 You can either <b>install the components yourself</b> or <b>run the insaller</b>. It's up to you</p>
