@@ -18,7 +18,7 @@ You can even use that old webcam of yours for a security camera :)</p>
 <h4>How it works</h4>
 <p>This project was made on <b>Python</b>, mostly. <br>There are many python modules for many things, such as cameras, sensor detection, users logging.</p>
 <p>You can arm and disarm the system by directly interacting with it (TFT screen or 3x4 keypad) or via WebGUI.</p>
-<p>Yes, this project counts with a Web GUI controller that allows you to manage remotely the system directly from your phone. Everything is done on the Web, since state changes, user management, other settings, consulting cameras, etc.</p>
+<p>Yes, this project counts with a Web GUI controller that allows you to manage remotely the system directly from your phone's browser. Everything is done on the Web, since state changes, user management, other settings, consulting cameras, etc.</p>
 <p>But the keypad is there for a faster interaction when you need it, so you still have a way of disarming it even if your phone dies ;)</p>
 
 <h4>Features</h4>
