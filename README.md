@@ -7,7 +7,7 @@ You can even use that old webcam of yours for a security camera :)</p>
 <h4>Components</h4>
 <p>What you need for this project is:</p>
 <ul>
-  <li>Raspberry Pi (whatever module it is, it's fine)</li>
+  <li>Raspberry Pi (Recommended 3 and above. Dont run it on a Pi Pico)</li>
   <li>Some reed sensors (for doors and windows)</li>
   <li>Some PIR sensors (for movements)</li>
   <li>Some USB webcams (optional)</li>
