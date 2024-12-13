@@ -31,15 +31,24 @@ You can even use that old webcam of yours for a security camera :)</p>
 </ul>
 
 <h4>Languages used</h4>
-<p><b>Python</b>, like said early, was the main language used for the program.<br>It was used to process most of the information and to directly interact with the hardware</p>
-<p>For the <b>Web GUI</b>,<br>besides <b>HTML, CSS and JS</b>, lots of <b>PHP</b> was also used.<br>
+<p><b>Python</b>, like said early, was the main language used for the program. It was used to:<br>
+  <ul>
+    <li>Communicate with the hardware</li>
+    <li>Process manual commands</li>
+    <li>Background processing</li>
+    <li>Database communication</li>
+    <li>Data streaming</li>
+  </ul>
+  
+<p>For the <b>Web GUI</b>:<br>
   <ul>
   <li>HTML and CSS, as you guessed, to properly display the page.</li>
-  <li>JS was used for diverse tasks, such as background checks and displaying animations.</li>
+  <li>JS was used for diverse tasks, such as background checks, displaying relevant content and handle input data.</li>
   <li>PHP was the most used. Besides serving as a safe authentication and providing a safe way to submit data to the server, 
   it also changes the WebGUI to reflect more sensitive data without exposing anything.<br>
   Its use was <b>crucial</b> in making the Web GUI well-protected. It was the most used one out of all 4.</li>
   </ul>
+</p>
   
 <h4>Downloads</h4>
 <p>If you don't want to download it from GitHub, you can download it from here too.<br>
