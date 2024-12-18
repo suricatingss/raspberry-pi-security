@@ -54,6 +54,6 @@ You can even use that old webcam of yours for a security camera :)</p>
 <p>Here on GitHub is the Python Project made on Windows and uploaded via <b>PyCharm</b> (for exploring the code only, not installation)<br>
 To install the project, I got the zipped components ready to download via the links below.<br>
 You can either <b>install the components yourself</b> or <b>run the installer</b>. It's up to you</p>
-<a target="https://suricatingss.xyz/nextcloud/index.php/s/ARrYTe69qzrbqwd">Show Files</a><br>
-<a target="https://suricatingss.xyz/nextcloud/index.php/s/ARrYTe69qzrbqwd/download?path=%2F&files=python_prog.zip">Python Project (without venv)</a><br>
-<a target="https://suricatingss.xyz/nextcloud/index.php/s/ARrYTe69qzrbqwd/download?path=%2F&files=safe-gui.zip">Web GUI component</a>
+[Show Files](target="https://suricatingss.xyz/nextcloud/index.php/s/ARrYTe69qzrbqwd)
+[Download Python Project (without venv)](https://suricatingss.xyz/nextcloud/index.php/s/ARrYTe69qzrbqwd/download?path=%2F&files=python_prog.zip)
+[Download Web GUI files](https://suricatingss.xyz/nextcloud/index.php/s/ARrYTe69qzrbqwd/download?path=%2F&files=safe-gui.zip)
