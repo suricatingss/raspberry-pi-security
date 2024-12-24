@@ -5,8 +5,8 @@
 You can even use that old webcam of yours for a security camera :)</p>
 
 <h4>Video Documentation</h4>
-<p>Here's a couple of videos explaining how each component of the project works (the videos were made in Portuguese)</p>
-<a href="https://suricatingss.xyz/nextcloud/index.php/s/qDXqk5dk2E8Afwq">Videos</a>
+<p>Here's a couple of videos explaining how each component of the project works (the videos were made in Portuguese) 
+<a href="https://suricatingss.xyz/nextcloud/index.php/s/qDXqk5dk2E8Afwq">Videos</a></p>
 
 <h4>Components</h4>
 <p>What you need for this project is:</p>
